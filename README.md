@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi There, I'm Ethan Macksam!
+## About Me
+I'm currently a Junior at Minnesota State University, Mankato studying Computer Science
+## Skills
+### Languages
+Java, Python, C#, JavaScript, Visual Basic
+### Applications
+Unity, GitHub, Visual Studio, Visual Studio Code, Intellij IDEA, PyCharm
+## Projects
+[The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
+
 
 <!--
 **eMack27/eMack27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
