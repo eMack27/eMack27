@@ -6,8 +6,10 @@ I'm currently a Junior at Minnesota State University, Mankato studying Computer 
 Java, Python, C#, JavaScript, Visual Basic
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Intellij IDEA, PyCharm
-## Projects
+## Past Projects
 [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
+## I’m Currently Working On:
+[MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
 
 
 <!--
