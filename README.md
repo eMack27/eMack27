@@ -5,7 +5,7 @@ I'm currently a Junior at Minnesota State University, Mankato studying Computer 
 [MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
 ## Skills
 ### Languages
-Java, Python, C#, JavaScript, Visual Basic
+Java, Python, C#, JavaScript, Swift, Visual Basic
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, React Native, Intellij IDEA, PyCharm
 ## Past Projects
