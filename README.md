@@ -7,7 +7,7 @@ I'm currently a Junior at Minnesota State University, Mankato studying Computer 
 ### Languages
 Java, Python, C#, JavaScript, Visual Basic
 ### Applications
-Unity, GitHub, Visual Studio, Visual Studio Code, Intellij IDEA, PyCharm
+Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, React Native, Intellij IDEA, PyCharm
 ## Past Projects
 [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
 
