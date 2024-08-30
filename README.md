@@ -11,8 +11,8 @@ NodeJS, PixiReact, Google Firebase, React Native
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, Intellij IDEA, PyCharm
 ## Past Projects
-[MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
-[The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
+- [MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
+- [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
 
 
 <!--
