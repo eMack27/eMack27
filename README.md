@@ -2,13 +2,16 @@
 ## About Me
 I'm currently a Junior at Minnesota State University, Mankato studying Computer Science
 ### I’m Currently Working On:
-[MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
+[EMDC Score Tabulation](https://github.com/orgs/Fall-2024-EMDC-Team/repositories)
 ## Skills
 ### Languages
-Java, Python, C#, JavaScript, Swift, Visual Basic
+Java, Python, C#, JavaScript, TypeScript, Visual Basic
+### Tools
+NodeJS, PixiReact, Google Firebase, React Native
 ### Applications
-Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, React Native, Intellij IDEA, PyCharm
+Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, Intellij IDEA, PyCharm
 ## Past Projects
+[MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
 [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
 
 
