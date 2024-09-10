@@ -7,7 +7,7 @@ I'm currently a senior at Minnesota State University, Mankato studying Computer 
 ### Languages
 Java, Python, C#, JavaScript, TypeScript, Visual Basic
 ### Tools
-NodeJS, PixiReact, Google Firebase, React Native
+NodeJS, PixiReact, Google Firebase, React Native, Django, Docker
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, Intellij IDEA, PyCharm
 ## Past Projects
