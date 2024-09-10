@@ -1,6 +1,6 @@
 # Hi There, I'm Ethan Macksam!
 ## About Me
-I'm currently a Junior at Minnesota State University, Mankato studying Computer Science
+I'm currently a senior at Minnesota State University, Mankato studying Computer Science
 ### I’m Currently Working On:
 [EMDC Score Tabulation](https://github.com/orgs/Fall-2024-EMDC-Team/repositories)
 ## Skills
