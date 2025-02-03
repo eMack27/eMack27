@@ -2,12 +2,12 @@
 ## About Me
 I'm currently a senior at Minnesota State University, Mankato studying Computer Science
 ### I’m Currently Working On:
-
+- [SAFEHR v2](https://git.cs.campus-quest.com/SAFEHR)
 ## Skills
 ### Languages
 Java, Python, C#, JavaScript, TypeScript, Visual Basic
 ### Tools
-NodeJS, PixiReact, Google Firebase, React Native, Django, Docker
+NodeJS, PixiReact, Google Firebase, SQLite, React Native, Django, Docker
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, Intellij IDEA, PyCharm
 ## Past Projects
