@@ -1,8 +1,8 @@
 # Hi There, I'm Ethan Macksam!
 ## About Me
-I'm currently a senior at Minnesota State University, Mankato studying Computer Science
+I'm a recent graduate of Minnesota State University, Mankato with a bachelor's degree in Computer Science
 ### I’m Currently Working On:
-- [SAFEHR v2](https://git.cs.campus-quest.com/SAFEHR)
+
 ## Skills
 ### Languages
 Java, Python, C#, JavaScript, TypeScript, Visual Basic
@@ -11,6 +11,7 @@ NodeJS, PixiReact, Google Firebase, SQLite, React Native, Django, Docker
 ### Applications
 Unity, GitHub, Visual Studio, Visual Studio Code, Android Studio, Xcode, Intellij IDEA, PyCharm
 ## Past Projects
+- [SAFEHR v2](https://git.cs.campus-quest.com/SAFEHR)
 - [EMDC Score Tabulation](https://github.com/orgs/Fall-2024-EMDC-Team/repositories)
 - [MNSU Student Government Wayfinding App](https://github.com/WayfindingWizards/WayfindingApp)
 - [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4)
